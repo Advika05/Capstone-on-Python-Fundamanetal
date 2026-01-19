@@ -5,8 +5,11 @@
 This project is a comprehensive data analysis task involving employee data and project management. The dataset consists of three main tables: Employee Data, Seniority Level Data, and Project Data. Using Python and data manipulation libraries, various tasks were performed to clean, merge, analyze, and enhance the dataset, simulating real-world data challenges. The tasks range from handling missing values to applying business logic for project performance evaluation.
 ### Key Features
 • Data cleaning and preprocessing:
+
 ° Imputed missing project costs using a running average with a for loop.
+
 ° Split the full name column into separate first and last name columns for improved data organization.
+
 • Data Merging and Aggregation:
 ° Combined Employee, Seniority, and Project data into a single dataframe for a holistic analysis.
 • Project Bonus Calculation:
